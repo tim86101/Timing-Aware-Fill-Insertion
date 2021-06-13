@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="210mm" height="297mm" 
+     viewBox="0 0 595.276 841.89" 
+     xmlns="http://www.w3.org/2000/svg" version="1.1" >
+<desc>drc_err.svg, created with the Board library (C) 2007 Sebastien Fourey</desc>
+<rect x="28.35" y="286.3" width="538.58" height="269.29" fill="rgb(255,0,0)" stroke="rgb(255,0,0)" stroke-width="0.5px" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="28.35" y="286.3" width="538.58" height="269.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+</svg>
