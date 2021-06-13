@@ -28,6 +28,22 @@
 
 ![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/a1.png)
 
+### 1.找出沒有與原始金屬(藍色格子)重疊的區塊，這些紅色格子的區域有效避免了lateral capacitance的產生。
+ ![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/a2.png)
+ 
+### 2.將目前的window切割成很多grids，如果密度已符合即可換下一個window，不足的話則要往下繼續往下做。
+ ![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/a3.png)
+
+### 3.檢查我們原始的金屬與我們切出來的grid是否重疊，如果重疊則標記為不可用，反之，標記為可用(如上圖綠色格子)。
+![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/a4.png)
+
+### 4.標記為可用的grid我們會去做shuffle後隨機插入金屬，以達到良好的效能又可避免金屬集中在某一個區域。
+ ![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/a5.png)
+
+### 5.如果塞入的金屬以達到最小密度標準則跳到下一個window繼續做檢查。
+
+
+
 ## 成果
 
 ![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/0001.jpg)
