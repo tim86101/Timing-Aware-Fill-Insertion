@@ -20,4 +20,14 @@
 ## Data structure
 
 
+![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/ds1.png)
+
+![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/ds2.png)
+
 ## Algorithm
+
+![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/a1.png)
+
+## 成果
+
+![image](https://github.com/tim86101/Timing-Aware-Fill-Insertion/blob/main/code/matlab/0001.jpg)
